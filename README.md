@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student <br>Learning MERN stack<br>Want to be full stack web developer <br>Interested in using and building A.I.<br>
+Undergrad at IIIT , Senapati <br>Learning MERN stack<br>Want to be Fullstack Web Developer <br>Interested in using and building A.I.<br>
 
 
 ## 🌐 Socials:
