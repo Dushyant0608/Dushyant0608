@@ -1,5 +1,19 @@
 # 💫 About Me:
-Hi, I'm Dushyant! 👋 I'm a Computer Science student exploring different domains of tech. I have academic knowledge of C++ and basic Python skills (used for my AI Study Buddy project), but right now, I am **fully focused on Web Development**.<br><br>- 🔭 Building: Responsive websites using **Vanilla JavaScript**.<br>- 🌱 Learning: **React.js and Node.js** to level up my stack.<br>- 💬 Ask me about: How I built **CineScope** (Movie App) or my journey learning the MERN stack.
+Hi, I'm Dushyant! 👋 I'm a Computer Science student (6th Semester) at IIIT Manipur, 
+focused on backend development and building real-world full-stack applications.
+
+- 🔭 Currently Building: **UniTrade** — an intelligent C2C campus marketplace for IIIT Manipur 
+  featuring a custom depreciation-based valuation engine, weighted Jaccard similarity 
+  recommendation system with temporal decay, and JWT-based institutional auth.
+
+- 🌱 Learning: **React.js** to complete the full-stack picture alongside my Node.js backend work.
+
+- 💻 Stack: **Node.js, Express.js, MongoDB, Mongoose, JWT, REST APIs**
+
+- 🚀 Past Projects: **Backend Ledger** — a bank transaction system with auth, 
+  transaction management, and ledger tracking. **AI Study Buddy** — built during 
+  Edunet Foundation internship.
+
 
 
 ## 🌐 Socials:
