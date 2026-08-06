@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Dushyant! 👋 I'm a Computer Science student (6th Semester) at IIIT Manipur, focused on backend development and building production-grade full-stack systems.
+Hi, I'm Dushyant! 👋 I'm a Computer Science student (7th Semester) at IIIT Manipur, focused on backend development and building production-grade full-stack systems.
 
 - 🔭 Recently Shipped: **UniTrade** — a campus-scoped C2C marketplace with three production AI subsystems: a Weighted Jaccard Similarity discovery engine with temporal decay, a category-specific depreciation valuation engine, and a cascading Gemini Vision → Gemini Text → rule-based AutoTagger pipeline.
 - 💻 Also Built: **FinTrace** — an audit-grade double-entry financial ledger API with a 10-step ACID transaction pipeline (PostgreSQL + Prisma ORM), database-level immutability triggers, layered Redis rate limiting, and idempotent transfer semantics — deployed end-to-end on AWS (ECS across EC2 and Fargate, RDS Postgres, ECR, SSM Parameter Store).
